@@ -1,5 +1,5 @@
 # WanderingBundler
-Adds bundles (with loot!) to the Wandering Trader's offers for Minecraft 1.17.
+Adds bundles (with loot!) to the Wandering Trader's offers for Minecraft 1.18.
 
 The bundles are filled at random from six themed loot tables: Food, candles, fireworks, caving, deep diving, and plants. There is some rare loot such as wither roses and spore blossoms and the Heart of the Sea, but not in quantities that would break the game. Also allows more opportunities to obtain tedious items such as sponges and calcite (which can only currently be obtained by mining a geode!). The loot tables can be edited, and input/feedback/ideas are greatly appreciated!
 
